@@ -16,7 +16,7 @@ PostgreSQL - Banco de dados relacional.
 NeonDB - Plataforma de hospedagem para PostgreSQL.
 📦 Instalação
 1️⃣ Clone o repositório
-git clone https://github.com/Rianxavier/self-order.git
+git clone https://github.com/Vnslwn/self-order.git
 2️⃣ Acesse o diretório do projeto
 cd nome-do-projeto
 3️⃣ Instale as dependências
