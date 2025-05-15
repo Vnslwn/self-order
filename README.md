@@ -49,9 +49,12 @@ npm run dev
 # ou
 
 yarn dev
+
 3️⃣ Acesse o projeto no navegador
 http://localhost:3000
+
 🛠️ Funcionalidades
+
 ✅ Escolha entre comer no local ou para levar
 ✅ Adicione produtos ao carrinho
 ✅ Finalize o pedido de forma simples
